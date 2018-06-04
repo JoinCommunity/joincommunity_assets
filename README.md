@@ -1,27 +1,15 @@
-# Node.js server to upload Images
+# Join Community - Serviço de imagens
 
-## To run the project
+# Pré requisitos 
+- NODE Versão 6 ou superior
+- NPM Versão 5.6 ou superior
 
-1.Switch to __fundii_assets__ directory,
-```
-cd fundii_assets
-```
-2.Create __images__ directory
-```
-mkdir images
-```
-3.Download dependencies
-```
-npm install
-```
-4.Run the project
-```
-node app
-```
-## Postman config to Test
+# Instalação
+- git clone https://github.com/pedrogyn/joincommunity_assets
+- cd join_community_assets
+- mkdir images
+- npm install
+- npm run dev
 
-<img src="https://www.learn2crack.com/wp-content/uploads/2017/08/postman-upload-image.png"/>
-
-## Tutorial
-https://www.learn2crack.com/2017/08/node-js-server-upload-images.html
-# joincommunity_assets
+# Observações
+- Link com os end points para testar https://documenter.getpostman.com/view/1191764/RW8FFmFe
