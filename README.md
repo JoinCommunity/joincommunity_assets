@@ -1,4 +1,8 @@
 # Join Community - Serviço de imagens
+```
+Este serviço foi construido para aprensentação no Evento Join Community 2018 e está disponível para que outros
+devs e outras comunidades possam se inspirar para construir e divulgar soluções para a comunidade.
+```
 
 # Pré requisitos 
 - NODE Versão 6 ou superior
